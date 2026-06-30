@@ -23,5 +23,5 @@ We provide **three predictors** for CAID4 Challenge. Each package is distributed
 
 BindPred provides binding predictions for IDRs, predicting probabilities for all residues within the sliding window.
 
-**Download:**https://1drv.ms/u/c/10D6F614D09AB9B3/IQBZiNB7npfbTrzu-rol6ICxAWfoJpMqo4hGDfIpmOIl-GQ?e=L2JCsb
+**Download:** https://1drv.ms/u/c/10D6F614D09AB9B3/IQBZiNB7npfbTrzu-rol6ICxAWfoJpMqo4hGDfIpmOIl-GQ?e=L2JCsb
 
