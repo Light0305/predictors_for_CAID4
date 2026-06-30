@@ -7,7 +7,7 @@ We provide **three predictors** for CAID4 Challenge. Each package is distributed
 
  BindSegPred provides binding predictions for IDRs using a two-stage cascade model, encompassing both region-level and residue-level predictions. 
 
-**Download:** 
+**Download:** https://1drv.ms/u/c/10D6F614D09AB9B3/IQDMYpE-xnvLSZBjrj8cepunAeZywEoXueA_MFgaNq0N1zQ?e=eWTXu1
 
 ---
 
@@ -15,7 +15,7 @@ We provide **three predictors** for CAID4 Challenge. Each package is distributed
 
  BindSegPred provides IDR predictions using a two-stage cascade model, encompassing both region-level and residue-level predictions. 
 
-**Download:** 
+**Download:** https://1drv.ms/u/c/10D6F614D09AB9B3/IQB03dZ-xdMQQIk5ipHkbKeVAQ-cr-5RKT_X-_HQ-iMW6xU?e=lJMgmC
 
 ---
 
@@ -23,6 +23,6 @@ We provide **three predictors** for CAID4 Challenge. Each package is distributed
 
 BindPred provides binding predictions for IDRs, predicting probabilities for all residues within the sliding window.
 
-**Download:**
+**Download:**https://1drv.ms/u/c/10D6F614D09AB9B3/IQB5SHi0WCzBT5IfvM8R_malAUpvRHlujLrXhFMpOoZ3ujw?e=1HesqE
 
 
